@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanay2804&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <!-- ### ✍️ Random Dev Quote-->
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Tanay2804&icon=0&color=1)](https://visitcount.itsvg.in)
