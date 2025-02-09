@@ -56,12 +56,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Tanay2804&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tanay2804&theme=dark&hide_border=true)<br/>
 -->
-[//]: ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanay2804&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-[//]: ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
-<div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay2804&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanay2804&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 ![](https://komarev.com/ghpvc/?username=tanay2804&abbreviated=true&style=flat-square)
 
