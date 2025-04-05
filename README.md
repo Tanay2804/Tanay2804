@@ -68,3 +68,6 @@ Here are some ideas to get you started:
 
 <!-- ### ✍️ Random Dev Quote-->
 [//]: <> (themes for random quotes:['tokyonight','algolia','chartreuse-dark'])
+
+<!-- Leetcode Maybe?-->
+[//]:![](https://leetcard.jacoblin.cool/tanaytibrewal?theme=transparent&ext=heatmap&font=Fira%20Code)
